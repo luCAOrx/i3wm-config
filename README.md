@@ -21,5 +21,4 @@ os temas foram pegos nesse [repositório](https://github.com/MonsieurBedard/rofi
 
 ### `Utlizando as fontes`
 
-Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`.
-
+Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`, os ícones foram pegos [aqui](https://fontawesome.com/cheatsheet/free/solid), utilize o ctrl+f para pesquisa-los, o nome do ícone do `cpu` é microchip, o da `temperatura do cpu` é     thermometer-three-quarters, o da `memória` é chart-area, o da `swap` é chart-bar, o da `velocidade da internet` é arrow-down e arrow-up, o do `volume` é volume-up, o da `data` é calendar, o do `relógio` é clock.
