@@ -1,5 +1,9 @@
 # i3wm-config
 
+<h1 align="center">
+    <img alt="i3workspace" title="#i3workspace" src=".github/i3workspace.jpg" width="1000px" />
+</h1>
+
 ### `Pacotes necessários`
 - i3wm 
 - i3blocks
@@ -12,7 +16,7 @@
 
 ### `Organizando as pastas para funcionar as configurações`
 
-Mova as pastas `i3`,`i3status`,`rofi` para a pasta `/home/seu_usuário/.config`, ***lembre-se*** de trocar o ***caminho*** para o que você utiliza no arquivo `i3/config` nas linhas 161,204,207.
+Mova as pastas `i3`,`i3status`,`rofi` para a pasta `/home/seu_usuário/.config`.
 
 ### `Temas para o rofi`
 
@@ -21,4 +25,4 @@ os temas foram pegos nesse [repositório](https://github.com/MonsieurBedard/rofi
 
 ### `Utlizando as fontes`
 
-Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`, os ícones foram pegos [aqui](https://fontawesome.com/cheatsheet/free/solid), utilize o ctrl+f para pesquisa-los, o nome do ícone do `cpu` é microchip, o da `temperatura do cpu` é     thermometer-three-quarters, o da `memória` é chart-area, o da `swap` é chart-bar, o da `velocidade da internet` é arrow-down e arrow-up, o do `volume` é volume-up, o da `data` é calendar, o do `relógio` é clock.
+Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`, os ícones foram pegos [aqui](https://fontawesome.com/cheatsheet/free/solid), utilize o ctrl+f para pesquisa-los.
