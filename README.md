@@ -25,4 +25,4 @@ os temas foram pegos nesse [repositório](https://github.com/MonsieurBedard/rofi
 
 ### `Utlizando as fontes`
 
-Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`, os ícones foram pegos [aqui](https://fontawesome.com/cheatsheet/free/solid), utilize o ctrl+f para pesquisa-los.
+Para utilizar as fontes mova o arquivo `.fonts` para sua `/home`, os ícones foram pegos [aqui](https://fontawesome.com/cheatsheet/free/solid), utilize ctrl+f para pesquisa-los.
